@@ -1,6 +1,10 @@
+:root {
+    --cor-texto: #00f7ff;
+    --cor-bloco: #001f46;
+    --cor-borda-bloco: rgb(0, 156, 47);
 footer{
-    background-color: var(--card-front-color);
-    color: white;
+    background-color: var(--cor-bloco);
+    color: var(--cor-texto);
     bottom: 0;
     position: fixed;
     width: 100%;
@@ -23,11 +27,11 @@ footer p{
 .conteudo{
     text-align: center;
     height: 100%;
-    background-color: var(--card-front-color);
+    background-color: var(--cor-bloco);
 }
-.conteudo a{
-    color: var(--text-color);
-    border: 1px solid var(--text-color);
+.conteudo h3{
+    color: var(--cor-texto));
+    border: 1px solid var(--cor-texto);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
