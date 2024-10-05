@@ -2,6 +2,9 @@
     --cor-texto: #00f7ff;
     --cor-bloco: #001f46;
 }
+body{
+    text-align: center;
+}
 footer{
     background-color: var(--cor-bloco);
     bottom: 0;
@@ -10,14 +13,12 @@ footer{
     height: 3rem;
 } 
 footer h3{
-    text-align: center;
     margin: 0.5rem;
     color: var(--cor-texto);
 } 
 header{
     background-color: var(--cor-bloco);
     align-items: center;
-    text-align: center;
     height: 70px;
     padding-top: 0px;
 }
@@ -37,11 +38,15 @@ article{
     flex-basis: calc(33% -6rem);
 }
 .conteudo{
-    text-align: center;
     height: 100%;
     background-color: var(--cor-bloco);
     border-radius: 7px;
 }
 a{
+    color: var(--cor-texto);
+}
+p{
+    font-size: 25px;
+    font-weight: 400;
     color: var(--cor-texto);
 }
