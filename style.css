@@ -42,5 +42,5 @@ article{
     color: var(--cor-texto);
     background-color: var(--cor-bloco);
     border-radius: 10px;
-    border-color: var(--cor-texto);
+    border-bottom-color: var(--cor-texto);
 }
