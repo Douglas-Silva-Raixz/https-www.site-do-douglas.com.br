@@ -5,6 +5,7 @@
 }
 main{
     text-align: center;
+    background-image: (url(img/imagem galaxia.jpg)); 
 }
 footer{
     background-color: var(--cor-escura);
@@ -32,7 +33,6 @@ header{
 .container{
     display:grid;
     grid-template-columns: 30% 30% 30%;
-    background-image: (url(img/imagem galaxia.jpg)); 
 }
 article{
     margin: 1rem 1rem;
