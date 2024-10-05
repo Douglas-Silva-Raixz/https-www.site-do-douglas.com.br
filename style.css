@@ -21,6 +21,7 @@ header{
     align-items: center;
     height: 70px;
     padding-top: 0px;
+    border-color: var(--cor-texto);
 }
 .titulo{
     color: var(--cor-texto);
