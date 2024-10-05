@@ -39,8 +39,9 @@ article{
 .conteudo{
     text-align: center;
     height: 100%;
-    color: var(--cor-texto);
     background-color: var(--cor-bloco);
-    border-radius: 10px;
-    border-bottom-color: var(--cor-texto);
+    border-radius: 7px;
+}
+a{
+    color: var(--cor-texto);
 }
