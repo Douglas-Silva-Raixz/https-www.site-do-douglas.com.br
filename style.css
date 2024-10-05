@@ -50,5 +50,5 @@ a{
 p{
     font-size: 25px;
     font-weight: 400;
-    color: var(--cor-texto);
+    color: var(--cor-escura);
 }
