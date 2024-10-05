@@ -3,10 +3,13 @@
     --cor-bloco: #002b5f;
     --cor-escura: #00152e;
 }
+body{
+    background: url(img/imagem galaxia.jpg);
+}
 main{
     text-align: center;
-    background-image: (url(img/imagem galaxia.jpg)); 
 }
+
 footer{
     background-color: var(--cor-escura);
     bottom: 0;
