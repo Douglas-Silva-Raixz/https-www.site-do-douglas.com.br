@@ -4,7 +4,7 @@
     --cor-escura: #00152e;
 }
 body{
-    background: url('img/imagem galaxia.jpg');
+    background-image: url('img/imagem galaxia.jpg');
 }
 main{
     text-align: center;
