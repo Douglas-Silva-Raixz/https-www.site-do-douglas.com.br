@@ -50,7 +50,6 @@ article{
 }
 a{
     color: var(--cor-texto);
-    position: fixed;
 }
 h2{
     color: var(--cor-texto);
