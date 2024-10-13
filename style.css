@@ -34,7 +34,7 @@ header{
     color: var(--cor-texto);
     font-size: 60px;
     font-weight: 400;
-text-decoration-style: var(--cor-bloco);
+    text-decoration: #002b5f;
 }
 .container{
     display:grid;
