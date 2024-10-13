@@ -42,6 +42,7 @@ article{
     height: 10rem;
     border: 1px solid var(--cor-texto);
     border-radius: 1rem;
+    margin: 1rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
 }
