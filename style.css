@@ -33,6 +33,7 @@ header{
     color: var(--cor-texto);
     font-size: 60px;
     font-weight: 400;
+    text-decoration: dashed;
 }
 .container{
     display:grid;
