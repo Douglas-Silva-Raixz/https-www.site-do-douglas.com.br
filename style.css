@@ -54,6 +54,7 @@ article{
 }
 a{
     color: var(--cor-texto);
+    position: absolute; 
     text-align: left;
 }
 h2{
