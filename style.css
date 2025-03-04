@@ -21,6 +21,7 @@ footer{
 footer h3{
     margin: 0.5rem;
     color: var(--cor-texto);
+    font-style: italic;
 } 
 header{
     background-color: var(--cor-escura);
@@ -55,7 +56,6 @@ article{
 a{
     color: var(--cor-texto);
     position: absolute; 
-    text-align: left;
 }
 h2{
     color: var(--cor-texto);
