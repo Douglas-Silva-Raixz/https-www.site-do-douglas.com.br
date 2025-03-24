@@ -5,7 +5,7 @@
 }
 body{
     background-image: url('img/imagem galaxia.jpg');
-    image size: cover;
+    background-size: cover;
 }
 main{
     text-align: center;
